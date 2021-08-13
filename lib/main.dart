@@ -40,7 +40,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
 
-            Text("Welcome to my website",style: TextStyle(fontSize: 48,color: Theme.of(context).primaryColor),)
+            Text("Welcome to my website",style: TextStyle(fontSize: 48,color: Theme.of(context).primaryColorDark),)
 
           ],
         ),
