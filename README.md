@@ -1,4 +1,4 @@
-# vCard - Personal portfolio
+# Xihad Islam - Personal portfolio
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
 ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
@@ -8,10 +8,12 @@
 
 vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
-## Demo
+[//]: # (## Demo)
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+[//]: # ()
+[//]: # (![vCard Desktop Demo]&#40;./website-demo-image/desktop.png "Desktop Demo"&#41;)
+
+[//]: # (![vCard Mobile Demo]&#40;./website-demo-image/mobile.png "Mobile Demo"&#41;)
 
 ## Prerequisites
 
