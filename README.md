@@ -37,9 +37,9 @@ Windows:
 git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
 ```
 
-## Contact
+## Project Author
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+vCard - Personal portfolio ||  [vCard](https://github.com/codewithsadee/vcard-personal-portfolio).
 
 ## License
 
