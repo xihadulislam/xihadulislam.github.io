@@ -844,13 +844,13 @@ main {
 .skill .title-wrapper {
   display: flex;
   align-items: center;
-  gap: 5px;
-  margin-bottom: 8px;
+  gap: 10px;
+  margin-bottom: 12px;
 }
 
 .skill .title-wrapper data {
   color: var(--light-gray);
-  font-size: var(--fs-7);
+  font-size: var(--fs-8);
   font-weight: var(--fw-300);
 }
 
@@ -863,8 +863,8 @@ main {
 
 .skill-progress-fill {
   background: var(--text-gradient-yellow);
-  height: 100%;
-  border-radius: inherit;
+  height: 40%;
+  border-radius: 10px;
 }
 
 
